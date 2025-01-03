@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.left{
+    font-size: 32px;
+}
+.hero{
+    display: flex;
+    height: 100px;
+}
+.right{
+    font-size: 18px;
+}
+header{
+    height: 800px;
+    background-image: url(cover.png);
+    background-size: cover;
+}
+.hero>div{
+    margin: 20px;
+    width: 50%;
+}
+.div{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 24px;
+    border-radius: 20px;
+    border: 2px solid black;
+    height: 100%;
+}
+.ul{
+    text-decoration: none;
+}
+.img1{
+    display: flex;
+    height: 100px;
+}
+.img2{
+    margin: 2px;
+    border: 2px solid black;
+    width: 50%;
+    border-radius: 100%;
+}
+.division{
+    margin: 10px;
+    display: flex;
+    border: 2px solid black;
+}
+.division>div{
+    margin: 10px;
+    width: 40%;
+}
+.btn{
+    color: white;
+    background-image: url(new.png);
+    padding: 6px 30px 6px 30px;
+    margin-top: 50px;
+    border-radius: 50px;
+    margin-left: 250px;
+    border: 2px solid black;
+}
+nav{
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+    background-color: rgba(200, 213, 226, 0.5);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px; 
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    margin: 0px 23px;
+}
+nav ul li a:hover{
+    color: aliceblue;
+    transition: .3s;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.title{
+    font-size: 40px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+.footer {
+    align-items: center;
+    justify-content: space-evenly;
+    height: 50px;
+    display: flex;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+.footer a{
+    text-decoration: none;
+    color: wheat;
+    margin-left: 40px;
+}
+.footer a:hover{
+    text-decoration: underline;
+}
+
+.company-name{
+    font-size: 32px;
+}
+
