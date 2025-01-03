@@ -37,7 +37,7 @@ class UI {
                 <img src="${image}" class="card-img-top" alt="...">
                 <div class="card-body text-center">
                     <h3 class="card-title">${title}</h3>
-                    <p class="fw-bold">Price: ${price} tk</p>
+                    <p class="fw-bold">Price: ${price} Rs</p>
                     <div class="d-flex">
                         <button class="btn btn-secondary  addToCart" data-id=${id}>Add to Cart</button>
                         <button disabled="disabled" class="btn btn-secondary">View</button>
