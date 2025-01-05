@@ -37,6 +37,7 @@ header{
     height: 100px;
 }
 .img2{
+    overflow: hidden;
     margin: 2px;
     border: 2px solid black;
     width: 50%;
