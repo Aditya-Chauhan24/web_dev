@@ -1,0 +1,31 @@
+#productDom{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 110px;
+}
+.d-flex{
+    justify-content: space-between;
+}
+.cart-image{
+    width: 45px;
+}
+.delete{
+    color: rgb(201, 34, 34);
+    font-size: 20px;
+}
+.delete:hover{
+    color: red;
+}
+.nav-style{
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+}
+.inputField{
+    width: 25px;
+    text-align: center;
+    border: none;
+}
