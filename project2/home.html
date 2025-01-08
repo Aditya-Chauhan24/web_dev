@@ -15,11 +15,9 @@
             <div class="left">T R E N D I F Y</div>
             <div class="right"></div>
             <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/">About</a></li>
-                <li><a href="/">Products</a></li>
-                <li><a href="/">Contact</a></li>
-                <li><a href="akshay_kumar/trial.html">Cart</a></li>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
             </ul>
         </nav>
         <section class="hero">
@@ -278,5 +276,17 @@
         <div class="contact">Contact Us: +91 9125663199</div>
       </footer>
       <div style="background-color: #333; color:white"><center>Copyright &#169 2024TRENDIFY.All Rights Reserved.</center></div>
+      <script>
+        // Function to update cart count on home page
+        function updateHomeCartCount() {
+            const cart = JSON.parse(localStorage.getItem("cart")) || [];
+            const totalItems = cart.reduce((sum, item) => sum + item.quantity, 0);
+            document.getElementById("homeItemCounter").innerText = totalItems;
+        }
+    
+        // Update cart count when the page loads
+        document.addEventListener("DOMContentLoaded", updateHomeCartCount);
+    </script>
+    
 </body>
 </html>

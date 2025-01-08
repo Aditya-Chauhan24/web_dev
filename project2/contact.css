@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-image: url(cover.png);
+    background-size: cover;
+}
+.ul{
+    text-decoration: none;
+}
+.left{
+    pointer-events: none;
+    padding: 0px 4px 0px 4px;
+    font-size: 32px;
+    border: 2px solid black;
+}
+nav{
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+    background-color: rgba(200, 213, 226, 0.5);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px; 
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    margin: 0px 23px;
+}
+nav ul li a:hover{
+    color: aliceblue;
+    transition: .3s;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.container {
+    background-color: rgba(47, 47, 47, 0.5); /* Semi-transparent background */
+    backdrop-filter: blur(10px); /* Apply blur to the background */
+    border: 2px solid rgba(255, 255, 255, 0.8); /* Add a border */
+    padding: 20px; /* Adjust padding as needed */
+    border-radius: 10px; /* Optional: Rounded corners */
+    color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Optional: Add shadow for better appearance */
+    max-width: 800px;
+    margin: 100px auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.content {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+.form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form input, .form textarea {
+    width: 49.3rem;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form button:hover {
+    background-color: #45a049;
+}
