@@ -5,62 +5,72 @@
             "id": 1,
             "title": "ORHANS Women's Chiffon All Over Fix Diamond & Lace Work Saree With Art Silk Matching Unstitched Blouse Piece",
             "price": 4999,
-            "image": "https://m.media-amazon.com/images/I/61SEyDRjd3L._SY550_.jpg"
+            "image": "https://m.media-amazon.com/images/I/61SEyDRjd3L._SY550_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 2,
             "title": "SWADESI STUFF Black Heavy Georgette Sequence Work Saree Elegant Indian Ethnic Wear for Women",
             "price": 2999,
-            "image": "https://m.media-amazon.com/images/I/61xoOdumwGL._SY679_.jpg"
+            "image": "https://m.media-amazon.com/images/I/61xoOdumwGL._SY679_.jpg",
+            "link": "https://example.com/product1"
         },
       
         {
             "id": 3,
             "title": "AKHILAM Women's Georgette Foil Printed Saree With Unstitched Blouse (NAIROBI1001_SR_Parent)",
             "price": 3999,
-            "image":"https://m.media-amazon.com/images/I/710RH8AsxkL._SY550_.jpg"
+            "image":"https://m.media-amazon.com/images/I/710RH8AsxkL._SY550_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 4,
             "title": "VanHeusen Women's Regular Fit Top with Flare Sleeves & Boat Neck with Colour Black Wear for women",
             "price": 999,
-            "image":"https://m.media-amazon.com/images/I/616WBaDuEuL._SY550_.jpg"
+            "image":"https://m.media-amazon.com/images/I/616WBaDuEuL._SY550_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 5,
             "title":"Symbol Premium Women's Solid Sleeveless Wrap Top (Regular Fit | Desk-to-Dinner) Colour Black" ,
             "price": 1199,
-            "image":"https://m.media-amazon.com/images/I/61LRwHk5BML._SY550_.jpg"
+            "image":"https://m.media-amazon.com/images/I/61LRwHk5BML._SY550_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 6,
             "title": "Georgette Floral Digital Print Short Sleeve Full-Length Fit & Flare Long Gown Dress for Girls",
             "price": 1999,
-            "image":"https://m.media-amazon.com/images/I/81lyMKySFgL._SY550_.jpg"
+            "image":"https://m.media-amazon.com/images/I/81lyMKySFgL._SY550_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 7,
             "title": "Sugathari Georgette Jacquard Butti Square Neck Knee Length Western Dresses for Women",
             "price": 1299,
-            "image":"https://m.media-amazon.com/images/I/61UAWKCvRTL._SY550_.jpg"
+            "image":"https://m.media-amazon.com/images/I/61UAWKCvRTL._SY550_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 8,
             "title": "Miss Chase Women's Bootcut High/Mid Rise Regular/Cropped Stretchable Denim Jeans",
             "price": 999,
-            "image":"https://m.media-amazon.com/images/I/61AxSGPxgtL._SY550_.jpg"
+            "image":"https://m.media-amazon.com/images/I/61AxSGPxgtL._SY550_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 9,
             "title": "DIGITAL SHOPEE Women's Regular Fit Casual Pants Ankle Length elastic Colur Beige ",
             "price": 799,
-            "image":"https://m.media-amazon.com/images/I/51WoLRRGhBS._SY550_.jpg"
+            "image":"https://m.media-amazon.com/images/I/51WoLRRGhBS._SY550_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 10,
             "title": "Istyle Can Plain Round Neck Rib Knit Regular Top for Women for Casual or Formal Wear Colour:Maroon Wear for Women",
             "price": 699,
-            "image":"https://m.media-amazon.com/images/I/61BBlDNERFL._SX679_.jpg"
+            "image":"https://m.media-amazon.com/images/I/61BBlDNERFL._SX679_.jpg",
+            "link": "https://example.com/product1"
         }
     ]
 }

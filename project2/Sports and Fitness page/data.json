@@ -5,62 +5,72 @@
             "id": 1,
             "title": "FitBox Sports Adjustable Hand Grip Strengthener (10kg - 40kg) Finger Excerciser, Hand Gripper For Men & Women",
             "price": 149,
-            "image": "https://m.media-amazon.com/images/I/61rUI3ktxaL._SX425_.jpg"
+            "image": "https://m.media-amazon.com/images/I/61rUI3ktxaL._SX425_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 2,
             "title": "Burnlab 6 in 1 multifunctional weight training kit with Adjustable Weights (12.00, Kilograms)",
             "price": 3999,
-            "image": "https://m.media-amazon.com/images/I/416w-a+NkFL._SY300_SX300_PQ10_.jpg"
+            "image": "https://m.media-amazon.com/images/I/416w-a+NkFL._SY300_SX300_PQ10_.jpg",
+            "link": "https://example.com/product1"
         },
       
         {
             "id": 3,
             "title": "BELCO SPORTS 6 Inch PVC Cones Pack 6, 20 Space Markers Agility Combos  with Multicolour ",
             "price": 699,
-            "image":"https://m.media-amazon.com/images/I/61ty5gd8ZaL._SX425_.jpg"
+            "image":"https://m.media-amazon.com/images/I/61ty5gd8ZaL._SX425_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 4,
             "title": "Sports Equipment Organizer Rack Multi Sports Gear Storage Hanging Rack  Sports Rack ",
             "price": 999,
-            "image":"https://m.media-amazon.com/images/I/71vIsS1rnkL._SX425_.jpg"
+            "image":"https://m.media-amazon.com/images/I/71vIsS1rnkL._SX425_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 5,
             "title":"Toyshine Speed Up X-treme Cricket Combo Kit for Kids with Bat, Stumps, Pads, Gloves and Ball" ,
             "price": 3999,
-            "image":"https://m.media-amazon.com/images/I/717f438DUGL._SX425_.jpg"
+            "image":"https://m.media-amazon.com/images/I/717f438DUGL._SX425_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 6,
             "title": "jaspo Synthetic T-20 Plus Practice Cricket Ball/Wind Balls (Weight of 125-130 Gms) (Pack of 6) Colour: White",
             "price": 499,
-            "image":"https://m.media-amazon.com/images/I/71igfi8ibJL._SX425_.jpg"
+            "image":"https://m.media-amazon.com/images/I/71igfi8ibJL._SX425_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 7,
             "title": "Rioff® Hockey Stick Witjh Baseball bat Heavy Duty (Silver-basebat-Olypic-Hockey)",
             "price": 799,
-            "image":"https://m.media-amazon.com/images/I/51YXUDuAbJL._SY679_.jpg"
+            "image":"https://m.media-amazon.com/images/I/51YXUDuAbJL._SY679_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 8,
             "title": "Nivea Stylish M ART Hand Stich Qatar Football Size-05 with Pump with size 5  New Model 2024  ,Multi",
             "price": 1499,
-            "image":"https://images-na.ssl-images-amazon.com/images/I/51QsIn-sTAL._SX300_SY300_QL70_FMwebp_.jpg"
+            "image":"https://images-na.ssl-images-amazon.com/images/I/51QsIn-sTAL._SX300_SY300_QL70_FMwebp_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 9,
             "title": "Leeway Steel Home Gym Set 10kg with 3Ft Curl (28mm), 5Ft Straight Rod (28mm), Dumbbell Rods, Steel Weight Plates Combo",
             "price": 5299,
-            "image":"https://m.media-amazon.com/images/I/51mjw8xPW0L._SX300_SY300_QL70_FMwebp_.jpg"
+            "image":"https://m.media-amazon.com/images/I/51mjw8xPW0L._SX300_SY300_QL70_FMwebp_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 10,
             "title": "Xtrim Puzzle Exercise Mat (10mm) EVA Foam, Interlocking Tiles, Kids Play Mat, Protective Flooring for Home Gym Equipment",
             "price": 899,
-            "image":"https://m.media-amazon.com/images/I/81M1NgxacLL._SX425_.jpg"
+            "image":"https://m.media-amazon.com/images/I/81M1NgxacLL._SX425_.jpg",
+            "link": "https://example.com/product1"
         }
     ]
 }
