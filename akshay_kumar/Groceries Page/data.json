@@ -1,0 +1,66 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "title": "Del Monte Tomato Ketchup - Classic Blend, 900 grams",
+            "price": 99,
+            "image": "https://m.media-amazon.com/images/I/51rXZYM3HcL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Fortune Sunlite Refined Sunflower Oil, 1L",
+            "price": 170,
+            "image": "https://m.media-amazon.com/images/I/81ILzuTdkbL._SY550_.jpg"
+        },
+      
+        {
+            "id": 3,
+            "title": "Tata Salt 1 Kg, Free Flowing and Iodised Namak",
+            "price": 28,
+            "image":"https://m.media-amazon.com/images/I/51ZkJ-B1EYL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Fortune Premium Kachi Ghani Pure Mustard Oil, 1Litre",
+            "price": 200,
+            "image":"https://m.media-amazon.com/images/I/41nH9Miwk9L._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 5,
+            "title":"Nuts About You RAISIN, 500 g  Premium| Kishmish | Saugi" ,
+            "price": 250,
+            "image":"https://m.media-amazon.com/images/I/617wuLJioFL._SX425_.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Vim Fresh Lemon Fragrance Dishwash Liquid Gel 2L Refill Pack",
+            "price": 320,
+            "image":"https://m.media-amazon.com/images/I/510lHmxXNFL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Surf Excel Matic Top Load Liquid Detergent 3.2 L Refill ",
+            "price": 485,
+            "image":"https://m.media-amazon.com/images/I/51uNYDqlabL._SY450_.jpg"
+        },
+        {
+            "id": 8,
+            "title": "MAGGI 2-minute Instant Noodles, Masala Noodles pack of 18,1.26kg",
+            "price": 246,
+            "image":"https://m.media-amazon.com/images/I/71mCW4UzbaL._SX522_.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Tata Coffee Gold Original,90/95 Gm, Freeze-Dried, Rich & Strong",
+            "price": 396,
+            "image":"https://m.media-amazon.com/images/I/41+r-zyVzsL._SY300_SX300_PQ10_.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Pears Pure & Gentle Soap Bar (Buy 4 get 1 free) Body Soaps For Bath",
+            "price": 267,
+            "image":"https://m.media-amazon.com/images/I/718MMvqTQyL._SY450_PIbundle-5,TopRight,0,0_AA450SH20_.jpg"
+        }
+    ]
+}
