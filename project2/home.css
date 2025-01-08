@@ -4,6 +4,7 @@
     padding: 0px;
 }
 .left{
+    pointer-events: none;
     padding: 0px 4px 0px 4px;
     font-size: 32px;
     border: 2px solid black;
