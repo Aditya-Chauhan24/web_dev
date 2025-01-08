@@ -5,62 +5,72 @@
             "id": 1,
             "title": "Lenovo IdeaPad Slim 3 12th Gen Intel Core i5-12450H 14 (35.5cm) FHD 250 Nits Thin & Light Laptop (16GB/512GB SSD/Win 11",
             "price": 52999,
-            "image": "https://m.media-amazon.com/images/I/81mgUtc9iKL._AC_UY327_FMwebp_QL65_.jpg"
+            "image": "https://m.media-amazon.com/images/I/81mgUtc9iKL._AC_UY327_FMwebp_QL65_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 2,
             "title": "HP Pavilion 14, 12th Gen Intel Core i7-1255U, 16GB DDR4, 1TB SSD,Win11,Silver,1.41 kg,14-inch (35.6cm) FHD Laptop",
             "price": 76999,
-            "image": "https://m.media-amazon.com/images/I/41zgPUbxlyL._SX300_SY300_QL70_FMwebp_.jpg"
+            "image": "https://m.media-amazon.com/images/I/41zgPUbxlyL._SX300_SY300_QL70_FMwebp_.jpg",
+            "link": "https://example.com/product1"
         },
       
         {
             "id": 3,
             "title": "boAt Rockerz 480 w/RGB LEDs, 6 Light Modes,60hrs Playback,Bluetooth Headphones(Black Sabre)",
             "price": 16999,
-            "image":"https://m.media-amazon.com/images/I/711l4y8aNlL._AC_UY327_FMwebp_QL65_.jpg"
+            "image":"https://m.media-amazon.com/images/I/711l4y8aNlL._AC_UY327_FMwebp_QL65_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 4,
             "title": "Apple Watch SE,Smartwatch with Aluminum Case.Fitness & Sleep Tracker, Water Resistant",
             "price": 24999,
-            "image":"https://m.media-amazon.com/images/I/61bJZx1v8GL._AC_UY327_FMwebp_QL65_.jpg"
+            "image":"https://m.media-amazon.com/images/I/61bJZx1v8GL._AC_UY327_FMwebp_QL65_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 5,
             "title":"Boult Audio UFO Truly Wireless in Ear Earbuds with 48H Playtime,13mm Bass Drivers Ear Buds TWS,White Opal" ,
             "price": 1999,
-            "image":"https://m.media-amazon.com/images/I/71aBAPCVc8L._SY355_.jpg"
+            "image":"https://m.media-amazon.com/images/I/71aBAPCVc8L._SY355_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 6,
             "title": "Redmi Note 14 5G,Phantom Purple, 8GB RAM 256GB Storage 2100  nits 120Hz AMOLED,50MP Sony LYT 600 OIS+EIS Triple Camera",
             "price": 21999,
-            "image":"https://m.media-amazon.com/images/I/411JfsVkG0L._SX300_SY300_QL70_FMwebp_.jpg"
+            "image":"https://m.media-amazon.com/images/I/411JfsVkG0L._SX300_SY300_QL70_FMwebp_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 7,
             "title": "iQOO Z9s 5G Onyx Green, 8GB RAM 128GB Storage,120Hz,5500 mAh Battery 5G Processor,OIS Camera with Aura Light",
             "price": 19999,
-            "image":"https://m.media-amazon.com/images/I/41tS3gyOW1L._SX300_SY300_QL70_FMwebp_.jpg"
+            "image":"https://m.media-amazon.com/images/I/41tS3gyOW1L._SX300_SY300_QL70_FMwebp_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 8,
             "title": "TOSHIBA 139 cm (55 inches) M550MP Series 4K Ultra HD Smart QLED Google TV 55M550MP (Black)",
             "price": 40499,
-            "image":"https://m.media-amazon.com/images/I/816QIh81eiL._SX450_.jpg"
+            "image":"https://m.media-amazon.com/images/I/816QIh81eiL._SX450_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 9,
             "title": "LG 1 Ton 4 Star DUAL Inverter Split AC , AI Convertible 6-in-1 Cooling, 4 Way Swing,White",
             "price": 52999,
-            "image":"https://m.media-amazon.com/images/I/51dzcWwXTRL._SY445_SX342_QL70_FMwebp_.jpg"
+            "image":"https://m.media-amazon.com/images/I/51dzcWwXTRL._SY445_SX342_QL70_FMwebp_.jpg",
+            "link": "https://example.com/product1"
         },
         {
             "id": 10,
             "title": "insta360 X4-8K Waterproof 360 Optical Zoom Camera, 4K Wide-Angle Video, 135 Min Battery Life, Stabilization, Black",
             "price": 17999,
-            "image":"https://m.media-amazon.com/images/I/717MMGU6XmL._SX425_.jpg"
+            "image":"https://m.media-amazon.com/images/I/717MMGU6XmL._SX425_.jpg",
+            "link": "https://example.com/product1"
         }
     ]
 }
