@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.left{
+    padding: 0px 4px 0px 4px;
+    font-size: 32px;
+    border: 2px solid black;
+}
+.left_side{
+    border: 2px solid black;
+    background-image: url(imgall.jpg);
+    background-size: cover;
+}
+.right_side{
+    padding-right: 22rem;
+    border: 2px solid black;
+}
+.right_side a{
+    font-size: 32px;
+}
+header{
+    height: 800px;
+}
+.page{
+    margin-top: 5rem;
+    display: flex;
+    height: 600px;
+}
+.page>div{
+    margin: 8px;
+    width: 40%;
+}
+.ul{
+    text-decoration: none;
+}
+nav{
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+    background-color: rgba(200, 213, 226, 0.5);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px; 
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    margin: 0px 23px;
+}
+nav ul li a:hover{
+    color: aliceblue;
+    transition: .3s;
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+/* Size input buttons */
+
+/* Hide the default radio button */
+input[type="radio"] {
+    display: none;
+}
+
+/* Style the container for the custom radio button */
+.custom-radio {
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+/* Create the custom radio circle */
+.radio-circle {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #555;
+    margin-right: 10px;
+    position: relative;
+    transition: border-color 0.3s ease;
+}
+
+/* Add the inner circle for the selected state */
+.radio-circle::after {
+    content: '';
+    background-color: #555;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+/* Change the appearance when the radio button is selected */
+input[type="radio"]:checked + .radio-circle {
+    border-color: #007BFF;
+}
+
+input[type="radio"]:checked + .radio-circle::after {
+    opacity: 1;
+    background-color: #007BFF;
+}
+
+/* Hover effect */
+.custom-radio:hover .radio-circle {
+    border-color: #007BFF;
+}
+.btn{
+    margin-left: 5rem;
+    margin-top: 5rem;
+    border: 2px solid black;
+    padding: 8px;
+    margin-right: 20rem;
+}
+.brd{
+    margin: 10px;
+    width: 800px;
+    border-bottom: 2px solid black;
+}
+.currency{
+    font-size: 24px;
+}
+.price{
+    color: red;
+    position: relative;
+    bottom: 4%;
+    left: 2%;
+    font-size: 32px;
+}
+
