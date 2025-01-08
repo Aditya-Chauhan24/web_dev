@@ -22,7 +22,7 @@ header{
 }
 .hero>div{
     margin: 20px;
-    width: 20%;
+    width: 10%;
 }
 .div{
     background: linear-gradient(to bottom, rgb(215, 207, 207), rgba(244, 164, 164, 0.801));
@@ -38,6 +38,9 @@ header{
     height: 150px;
 }
 .img2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
     background-color: white;
     overflow: hidden;
     margin: 2px;
