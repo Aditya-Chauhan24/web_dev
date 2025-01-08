@@ -2,25 +2,28 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background: linear-gradient(to bottom, rgb(215, 207, 207), rgba(64, 65, 49, 0.801));
+}
 .left{
     padding: 0px 4px 0px 4px;
     font-size: 32px;
     border: 2px solid black;
 }
 .left_side{
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
     border: 2px solid black;
     background-image: url(imgall.jpg);
     background-size: cover;
 }
 .right_side{
     padding-right: 22rem;
-    border: 2px solid black;
 }
 .right_side a{
     font-size: 32px;
 }
 header{
-    height: 800px;
+    height: 700px;
 }
 .page{
     margin-top: 5rem;
@@ -76,15 +79,16 @@ input[type="radio"] {
     margin-bottom: 10px;
     font-size: 24px;
 }
-
 /* Create the custom radio circle */
 .radio-circle {
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
     width: 20px;
     height: 20px;
     border: 2px solid #555;
     margin-right: 10px;
     position: relative;
     transition: border-color 0.3s ease;
+    padding: 0px 5px;
 }
 
 /* Add the inner circle for the selected state */
@@ -113,14 +117,15 @@ input[type="radio"]:checked + .radio-circle::after {
 .custom-radio:hover .radio-circle {
     border-color: #007BFF;
 }
-.btn{
-    margin-left: 5rem;
-    margin-top: 5rem;
-    border: 2px solid black;
-    padding: 8px;
-    margin-right: 20rem;
+button{
+    margin: 3rem 3rem;
+    background-color: yellow;
+    padding: 10px 22px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
 }
 .brd{
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
     margin: 10px;
     width: 800px;
     border-bottom: 2px solid black;
